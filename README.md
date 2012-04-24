@@ -1,4 +1,6 @@
 IM2KServer
 ==========
 
-An implementation of Internet Mail 2000
+This is an implementation of Internet Mail 2000.
+
+Will update with more details as we figure them out.
