@@ -8,7 +8,7 @@
 #include <netinet/in.h>
 #include <arpa/inet.h>
 
-#define BUFSIZE 1024
+#define BUFSIZE 512
 
 //error - wrapper for perror
 void error(char *msg) 
